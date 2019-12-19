@@ -1,0 +1,29 @@
+.work {
+  background-image: url(../images/simple-gray-abstract-background-wi.jpg);
+      background-size: cover;
+  display: flex;
+  height: 50vw;
+  flex-direction: column;
+  border-bottom:#293a4d 5px solid;
+  font-size: 25px;
+  color:white;
+}
+
+.imglinks :hover {
+  filter: blur(1.5px);
+}
+
+.work>div> h1, p{
+  padding-top: 10px;
+  font-size: 25px;
+}
+
+#codepens {
+  display: flex;
+  flex-direction: row;
+}
+
+.codepen {
+  height: 250px;
+  width: 250px;
+}

@@ -1,0 +1,11 @@
+.main{
+  background-image: url(../images/code.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vw;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 2em;
+  border-bottom:#293a4d 5px solid;
+  font-size: large;
+}
